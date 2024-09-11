@@ -1,0 +1,6 @@
+file_name=myText.txt
+target_language=es
+output_mode=file
+max_characters=1000
+max_words=200
+max_sentences=10
